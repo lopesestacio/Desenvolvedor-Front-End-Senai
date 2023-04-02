@@ -9,8 +9,8 @@ Destinado ao curso Desenvolvedor Front-End do Senai.
 --- | ---| ---
 1 | Metodologias Ágeis | &#9745;
 2 | Versionamento |  &#9745;
-3 | Lógica de Programação |  &#9746;
-4 | Codificação para Front-End |  &#9744;
+3 | Lógica de Programação |   &#9745;
+4 | Codificação para Front-End |  &#9746;
 5 | Interação com APIs |  &#9744;
 6 | Testes de Front-End  |  &#9744;
 
